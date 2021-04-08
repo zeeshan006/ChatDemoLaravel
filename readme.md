@@ -17,8 +17,3 @@ Using Laravel 5.8, Vue JS, Laravel-Echo, Laravel-broadcast, Pusher real-time mes
 * Start the development server: php artisan serve
 * Register two users.
 * Go to this URL: http://localhost:8000/chat.
-
-
-
-### Following this tutorial
-https://appdividend.com/2018/05/19/laravel-vue-chat-application-tutorial/
